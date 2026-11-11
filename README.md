@@ -2,7 +2,7 @@
 
 Painel em uma única página HTML que transforma pedidos de compra em informação para decidir: **quanto foi pago, para quem, se o preço subiu e quem vende mais barato**.
 
-**[Abrir a demonstração](https://jadielluis-santos.github.io/comparador-compras/)** · todos os dados são fictícios
+**[Abrir a demonstração](https://jadielluis-santos.github.io/Comparador-de-compras-e-estoque/)** · todos os dados são fictícios
 
 ## O problema
 

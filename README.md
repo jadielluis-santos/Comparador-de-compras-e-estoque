@@ -27,7 +27,7 @@ Num setor de compras, eu repetia as mesmas cotações e não tinha um histórico
 
 Com 118 pedidos fictícios de julho a outubro de 2026:
 
-- Fornecedores cobrando de 39% a 60% a mais pelo mesmo item (fita dupla face, fonte de LED, tinta esmalte, corrediça, acrílico).
+- Fornecedores cobrando de 41% a 62% a mais pelo mesmo item (fita dupla face, fonte de LED, tinta esmalte, corrediça, acrílico).
 - Alta de preço da chapa ACM e do módulo de LED a partir de setembro.
 - Cerca de R$ 19 mil pagos acima do menor preço disponível no período.
 - 15 itens abaixo do estoque mínimo, com sugestão de reposição.
